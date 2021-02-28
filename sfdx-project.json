@@ -1,0 +1,21 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "NAICS",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "cyrt",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "NAICS": "0Ho2J0000008OItSAM",
+        "NAICS@0.1.0-1": "04t2J000000MCcYQAW",
+        "NAICS@1.0.0-1": "04t2J000000MCcdQAG",
+        "NAICS@1.0.0-2": "04t2J000000MCciQAG",
+        "NAICS@1.0.0-3": "04t2J000000MCcsQAG"
+    }
+}
